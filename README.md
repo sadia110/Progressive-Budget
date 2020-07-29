@@ -1,5 +1,5 @@
 
-# Employee-Tracker   
+# Buget App   
 
 ## Description 
 Buget App that allows user to enter their data while being online and offline. 
