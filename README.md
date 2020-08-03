@@ -2,7 +2,8 @@
 # Buget App   
 
 ## Description 
-Buget App that allows user to enter their data while being online and offline. 
+Buget App that allows user to enter their data while being online and offline.  
+Link : https://mybudget1235.herokuapp.com
 
 ## Tech 
 Mongoose Db  
