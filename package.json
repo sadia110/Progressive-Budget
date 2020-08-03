@@ -18,7 +18,7 @@
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
   "engines": {
-    "node": "12.x",
+    "node": "12.18.3",
     "npm": "6.14.6"
   },
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
