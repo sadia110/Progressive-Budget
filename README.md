@@ -7,7 +7,7 @@ Link : https://mybudget1235.herokuapp.com
 
 ## Tech 
 Mongoose Db  
-
+Heroku
 ## Usage 
 Fork respo, in command line install :
 - npm install express 
@@ -19,4 +19,4 @@ runs on localhost:3000
 ## Troubleshooting 
 
 ## Snapshots of Application in Terminal 
-![image](https://user-images.githubusercontent.com/64391826/88470604-57ce2780-cecc-11ea-9497-c045daefaca0.png)
+![image](https://user-images.githubusercontent.com/64391826/89236861-b6c42880-d5bf-11ea-9aa0-9480cff3ecf8.png)
